@@ -149,6 +149,8 @@ hr.small {
     padding: 2rem 0;
 }
 
+.header h1, .header h3 {font-weight: bolder;}
+
 /* About */
 
 .about {
